@@ -1,4 +1,4 @@
-#📊 Prime Video Analysis Dashboard
+# 📊 Prime Video Analysis Dashboard
 
 This Power BI dashboard provides insights into the content catalog of **Prime Video**, analyzing genres, IMDb ratings, 
 release years, and other key metrics to help understand the distribution and trends of shows and movies on the platform.
